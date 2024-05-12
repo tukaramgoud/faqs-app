@@ -1,0 +1,36 @@
+/* Write your code here. */
+.list-styling {
+  margin-left: 10%;
+  margin-right: 10%;
+  border: #d7dae6 solid 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-styling {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.item-heading {
+  font-size: 25px;
+  font-family: Roboto;
+  color: #52606d;
+}
+.item-para {
+  color: #9aa5b1;
+  font-family: Roboto;
+}
+.minus-container {
+  display: flex;
+  flex-direction: column;
+}
